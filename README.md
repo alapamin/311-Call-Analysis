@@ -12,8 +12,8 @@ I was able to utilize seaborn to create a bar graph which shows the top 10 compl
 FUTURE ROADMAP:
 
 -Get the software onto a website that I create to allow for user input online, so that someone can find whatever data they want in regards to 311 calls.
-  --This will be in June once I finish a .NET course
+--This will be in June once I finish a .NET course
 -Create a visual representation of which borough in the 5 boroughs gets the most calls using folium
 -Show how call quantity changes throughout the months using a regression graph
-  --In order to do this the column for date_created must be cleaned and set as integers so that we can order the dates.
-  --Since there are several calls made daily, must add calls for each month individually.
+--In order to do this the column for date_created must be cleaned and set as integers so that we can order the dates.
+--Since there are several calls made daily, must add calls for each month individually.
